@@ -2,7 +2,7 @@
 	width: 100%;
 	position: absolute;
 	top: 0;
-	left: 0;
+	right: 0;
 	z-index: 1000;
 	-webkit-perspective: 1000px;
 	-moz-perspective: 1000px;
@@ -14,18 +14,18 @@
 		position: fixed;
 		max-width: 175px;
 		top: 25px;
-		left: 25px;
+		right: 25px;
 	}
 	button {
 		top: 0;
-		left: 0;
+		right: 0;
 		background: $comp-color;
 		border: none;
 		width: 48px;
 		height: 45px;
 		text-indent: -900em;
 		overflow: hidden;
-		position: relative;
+		position: absolute;
 		cursor: pointer;
 		outline: none;
 		@include border-radius(0,3px,0,0);
