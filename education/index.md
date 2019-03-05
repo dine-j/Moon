@@ -5,7 +5,8 @@ title: Education
 
 *Expected 2019*
 :	**MSci Computer Science**, King's College London (UK)  
-	Relevant modules: Java, Operating Systems, Data Structures, Databases, Security, Artificial Intelligence  
+	Backend modules: Java, Operating Systems, Data Structures, Databases, Security
+	AI modules: Artificial Intelligence, Agents Systems, Computer Vision, Pattern Recognition  
 	Current grade: First
 
 --- 

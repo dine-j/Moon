@@ -17,7 +17,7 @@ title: Skills
 ## Working space
 * OS: Linux - any distribution
 * IDE: Jetbrain
-* Mobilde: Android Studio with Flutter
+* Mobile: Android Studio with Flutter
 
 
 ---

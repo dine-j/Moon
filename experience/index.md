@@ -7,7 +7,7 @@ title: Experience
 *June 2018 - September 2018*  
 **Software Engineer Intern**, [Intuit](https://quickbooks.intuit.com/uk/accounting-software/), London, UK   
 * Developed POCs using Amazon Machine Learning services to enhance the engineering processes
-* Migrated a service from the monolithic codebase to AWS
+* Migrated a functionality from the monolithic codebase to an AWS microservice
 * Owned the project from the design phase to production ready
 * Technologies: Groovy, Spock, AML, Lambda, StepFunctions, API Gateway, S3, Terraform
 
