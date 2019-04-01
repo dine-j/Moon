@@ -12,7 +12,7 @@ title: Projects
 ---
 
 **Python - AI Chat bot**  
-*3rd year project* 
+*3rd year project*  - <a href="https://www.dropbox.com/s/0rtlygk2z5qpfc4/report.pdf?dl=0" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-contract"></i></a>
 * Researched existing technologies on Natural Language Processing
 * Used Rivescript library to implement NLP
 
@@ -25,14 +25,14 @@ title: Projects
 
 ---
 
-**Python - Noughts \& Crosses AI**  
-*Personal project*, [Repository](https://github.com/dine-j/noughts-n-crosses)  
-* Built a console application to play Noughts \& Crosses against an AI
+**Python - Noughts & Crosses AI**  
+*Personal project* - <a href="https://github.com/dine-j/noughts-n-crosses" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a> 
+* Built a console application to play Noughts \& Crosses against an AI  
 
 ---
 
 **Java - Robotics Group Project**  
-*Group work for 2nd year project*, [Repository](https://github.com/dine-j/robotics-group-project)  
+*Group work for 2nd year project* - <a href="https://github.com/dine-j/robotics-group-project" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a>
 * Implemented line-following and wall-avoiding robot
 * Implemented self-localization (Baysesian filter) and path-planning using A* on robot
 * Robot hardware: Lego Mindstrom EV3
@@ -40,5 +40,5 @@ title: Projects
 ---
 
 **Javascript - Smash Up Faction Distributor**  
-*Personal project*, [Repository](https://github.com/dine-j/smash-up)  
+*Personal project* - <a href="https://github.com/dine-j/smash-up" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a>
 * Webpage for Smash Up players who want to get factions distributed randomly
