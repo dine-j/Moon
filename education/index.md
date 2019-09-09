@@ -3,11 +3,11 @@ layout: page
 title: Education
 ---
 
-*Expected 2019*
-:	**MSci Computer Science**, King's College London (UK)  
+*2015-2019*
+:	**MSci in Computer Science**, King's College London (UK)  
 	Backend modules: Java, Operating Systems, Data Structures, Databases, Security
 	AI modules: Artificial Intelligence, Agents Systems, Computer Vision, Pattern Recognition  
-	Current grade: First
+	Grade: First with Honours
 
 --- 
 

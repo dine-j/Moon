@@ -5,7 +5,7 @@ title: Projects
 
 
 **Python/Flutter - Personal clothes picker**  
-*4th year project - In progress*  
+*4th year project* - <a href="https://www.dropbox.com/s/0rtlygk2z5qpfc4/report.pdf?dl=0" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-contract"></i></a>  
 * Train decision trees and neural networks on clothes preferences
 * Create an Android app to suggest clothes to the user using Flutter
 

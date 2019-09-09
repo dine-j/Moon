@@ -5,8 +5,9 @@ title: Home
 
 **Welcome!**
 
-I am on my way to finish my fourth year at King's College London. I'm currently studying Computer Science and enjoying it. I took all AI modules that I could, and I took some Security modules as well.
+I graduated from King's College London with a MSci in Computer Science last summer. My degree mostly involved Programming, Articial Intelligence and Security. I like coding and the proud feeling you get when you solved a problem and can ship it with a piece of efficient, good-written code!
+I also have some background in Business Administration (Master in Marketing done in an exchange programme) that gave me good-to-have soft skills: organising, planning, and I'm also a good listener!
 
-I had a change in my studies and while I think I picked up some nice skills doing Marketing and Human Resources, I can't deny my passion for technology and the proud feeling you get when you produce a piece of efficient, good-written code.
+Learning new technologies and languages doesn't scare me. I consider myself a backend developer, but I'm always up for new challenges.
 
-Learning new technologies and languages doesn't scare me. Studying far from home and studying abroad turned me into a curious and adaptive person.
+**Current status:** Open to full-time opportunities in London, either in Java, Python or C++ in a mid-size company. I'm also very product-oriented, so the product needs to appeal to me before anything else.

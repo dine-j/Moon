@@ -4,6 +4,13 @@ title: Experience
 ---
 
 
+*August 2019 - October 2019*
+**Game Developer Intern**, [King](king.com), London, UK
+* Worked on Farm Heroes Saga in a feature team
+* Technologies: C++, Android
+
+---
+
 *June 2018 - September 2018*  
 **Software Engineer Intern**, [Intuit](https://quickbooks.intuit.com/uk/accounting-software/), London, UK   
 * Developed POCs using Amazon Machine Learning services to enhance the engineering processes
