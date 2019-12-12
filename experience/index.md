@@ -4,9 +4,10 @@ title: Experience
 ---
 
 
-*August 2019 - October 2019*
-**Game Developer Intern**, [King](king.com), London, UK
+*August 2019 - Present*
+**Junior Game Developer**, [King](king.com), London, UK
 * Worked on Farm Heroes Saga in a feature team
+* Improved code base and player experience
 * Technologies: C++, Android
 
 ---
